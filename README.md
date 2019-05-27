@@ -1,6 +1,5 @@
-Travis CI
-
 [![Build Status](https://travis-ci.org/bdushimi/authors-heaven.svg?branch=dev)](https://travis-ci.org/bdushimi/authors-heaven)
+[![Coverage Status](https://coveralls.io/repos/github/bdushimi/authors-heaven/badge.svg?branch=dev)](https://coveralls.io/github/bdushimi/authors-heaven?branch=dev)
 
 Authors Haven - A Social platform for the creative at heart.
 =======
