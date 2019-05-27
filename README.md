@@ -1,3 +1,6 @@
+Travis CI
+https://travis-ci.org/bdushimi/authors-heaven.svg?branch=dev
+
 Authors Haven - A Social platform for the creative at heart.
 =======
 
